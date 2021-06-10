@@ -48,10 +48,11 @@ def jogar():
         else:
             print('Voce acertou e fez {} pontos!'.format(pontos))
             break
-
-
     print('Fim de jogo!')
-
 if(__name__ == '__main__'):
+
+
+
+
 
     jogar()
